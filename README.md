@@ -1,2 +1,3 @@
 # ed-testing
-ed-testing
+## welcome to cardinality.ai
+
